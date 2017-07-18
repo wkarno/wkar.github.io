@@ -94,6 +94,7 @@ Arnold, W. K., et al. (2015). "Apparent role for Borrelia burgdorferi LuxS durin
 
 (Year, Course title, Location)
 
+2017, Data Intensive Biology Summer Institute, Davis CA
 
 #### Presentations  
 -----------------
@@ -122,6 +123,29 @@ Arnold, W. K., et al. (2015). "Apparent role for Borrelia burgdorferi LuxS durin
 
 ##### POSTER
 ------------
+
+Gordon Research Seminar & Conference Biology of Spirochetes, 2014, Transcriptional Regulation of *bpuR*
+
+MIMG Departmental Retreat, 2014, Transcriptional Regulation of *bpuR*
+
+MIMG Departmental Retreat, 2015, Transcriptional Regulation of *bpuR* (An updated model)
+
+International Conference on Lyme Borreliosis and other Tick Borne diseases, 2015, Transcriptional Regulation of *bpuR*
+
+Gordon Research Seminar & Conference Biology of Spirochetes, 2016, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
+MIMG Departmental Retreat, 2016, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
+Gordon Research Seminar & Conference on Microbial Stress Responses, 2016, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
+Molecular Genetics of Bacteria & Phages, 2016, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
+Midwest Molecular Pathogenesis Conference, 2016, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
+Bacterial Locomotion and Signal Transduction, 2017, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
+MIMG Departmental Retreat, 2017, Replication linked expression of the RNA/DNA binding protein, *bpuR*
+
 
 
 
