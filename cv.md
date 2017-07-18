@@ -23,10 +23,9 @@ Mailing Address: Medical Science Building MN469 800 Rose Street Lexington, KY 40
 
 **Degree, University and location, Month/Year**
 
-B.S. Biology 		                  University of Kentucky	May 2011
+B.S. Biology University of Kentucky	May 2011
 
-Ph.D. Microbiology, Immunology,   University of Kentucky Expected 2017
-and Molecular Genetics
+Ph.D. Microbiology, Immunology, and Molecular Genetics University of Kentucky Exp. 2017
 
 
 #### PROFESSIONAL EXPERIENCE
@@ -34,9 +33,14 @@ and Molecular Genetics
 
 **Year(s), Job title, Location**
 
-2011-2016	Graduate Student	Michigan State University		
+2009-2011 Research Assistant  Department of Nutritional Sciences  University of Kentucky
 
-2016-Present Post-doctoral researcher University of California Davis
+2011-2012 Research Technician Department of Physiology University of Kentucky
+
+2012 Research Technician Department of Biology  University of Kentucky
+
+2012-2017(exp)	Graduate Student	Department of Microbiology, Immunology, and Molecular Genetics  University of Kentucky
+
 
 #### PROFESSIONAL ORGANIZATIONS
 ------------------------------
@@ -46,21 +50,30 @@ and Molecular Genetics
 AAAS, 2015 - Present
 
 Biomedical Graduate Student Organization, 2015 - Present
-  Social Activity Chair, 2015
-  Director of IT, 2016 - 2017
+  * Social Activity Chair, 2015
+  * Director of IT, 2016 - 2017
 
 #### HONORS AND AWARDS
 ---------------------
 
 **Name of award, year(s)**
 
+Domestic Travel Award, 2014
+
+International Travel Award, 2015
+
+Dissertation Enhancement Award, 2015
+
+Sponsored AAAS Membership, 2016 – Present
+
+Top Poster MIMG Departmental Retreat, 2017
 
 #### CIVIC AND COMMUNITY INVOLVEMENT
 -----------------------------------
 
 **Function, name of association, year(s)**
 
-Judge,
+Judge, Morton Middle school science fair 2015 - 2017
 
 #### PUBLICATIONS
 ----------------
@@ -80,7 +93,6 @@ Arnold, W. K., et al. (2015). "Apparent role for Borrelia burgdorferi LuxS durin
 ------------------------------------
 
 (Year, Course title, Location)
-
 
 
 #### Presentations  
