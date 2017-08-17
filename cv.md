@@ -1,7 +1,8 @@
 ---
-layout: page
-title: CV
+title: "CV"
+output: pdf_document
 permalink: /cv/
+layout: page
 ---
 
 #### Curriculum Vitae
@@ -10,7 +11,7 @@ permalink: /cv/
 #### Will K. Arnold
 ---------------------
 
-##### Updated [July 17, 2017]
+##### Updated [August 17, 2017]
 ----------------------------
 
 #### PERSONAL DETAILS
@@ -75,19 +76,23 @@ Top Poster MIMG Departmental Retreat, 2017
 
 Judge, Morton Middle school science fair 2015 - 2017
 
-#### PUBLICATIONS
+Reviewer: PLoS One, FEMS Microbiology Letters
+
+#### PEER REVIEWED PUBLICATIONS
 ----------------
 
 Bobrov, A. G., et al. (2017). "Zinc transporters YbtX and ZnuABC are required for the virulence of Yersinia pestis in bubonic and pneumonic plague in mice." Metallomics 9(6): 757-772.
 
 Arnold, W. K., et al. (2016). "RNA-Seq of Borrelia burgdorferi in Multiple Phases of Growth Reveals Insights into the Dynamics of Gene Expression, Transcriptome Architecture, and Noncoding RNAs." PLoS ONE 11(10): e0164165.
 
-Woodman, M. E., Savage, C.R., Arnold, W.K., and Stevenson, B.  (2016). "Direct PCR of intact bacteria (colony PCR)." Curr. Protoc. Microbiol. 42:A.3D.1-A.3D.7.
-
 Savage, C. R., et al. (2015). "Intracellular Concentrations of Borrelia burgdorferi Cyclic Di-AMP Are Not Changed by Altered Expression of the CdaA Synthase." PLoS ONE 10(4): e0125440.
 
 Arnold, W. K., et al. (2015). "Apparent role for Borrelia burgdorferi LuxS during mammalian infection." Infect Immun 83(4): 1347-1353.
 
+#### BOOK CHAPTERS
+----------------
+
+Woodman, M. E., Savage, C.R., Arnold, W.K., and Stevenson, B.  (2016). "Direct PCR of intact bacteria (colony PCR)." Curr. Protoc. Microbiol. 42:A.3D.1-A.3D.7.
 
 #### RELEVANT TRAINING AND COURSEWORK
 ------------------------------------
@@ -120,6 +125,9 @@ Arnold, W. K., et al. (2015). "Apparent role for Borrelia burgdorferi LuxS durin
 2017 Departmental Seminar
 * Dissection of gene regulatory networks in *B. burgdorferi*
 
+International Symposium on Tick Borne Diseases, 2017, Novel approaches shed light on transcriptome architecture and gene regulation in *Borrelia burgdorferi*: A new look at an old picture
+
+
 
 ##### POSTER
 ------------
@@ -146,10 +154,4 @@ Bacterial Locomotion and Signal Transduction, 2017, Replication linked expressio
 
 MIMG Departmental Retreat, 2017, Replication linked expression of the RNA/DNA binding protein, *bpuR*
 
-
-
-
-#### TRAINING GRANTS AND FELLOWSHIPS
------------------------------------
-
-(Year(s), Grant or fellowship title, source of funding, total amount of funding
+Molecular Genetics of Bacteria & Phages, 2017, Novel approaches shed light on transcriptome architecture and gene regulation in *Borrelia burgdorferi*: A new look at an old picture
