@@ -11,7 +11,7 @@ layout: page
 #### Will K. Arnold
 ---------------------
 
-##### Updated [August 17, 2017]
+##### Updated [October 16, 2017]
 ----------------------------
 
 #### PERSONAL DETAILS
@@ -40,7 +40,7 @@ Ph.D. Microbiology, Immunology, and Molecular Genetics University of Kentucky Ex
 
 2012 Research Technician Department of Biology  University of Kentucky
 
-2012-2017(exp)	Graduate Student	Department of Microbiology, Immunology, and Molecular Genetics  University of Kentucky
+2012-2018(exp)	Graduate Student	Department of Microbiology, Immunology, and Molecular Genetics  University of Kentucky
 
 
 #### PROFESSIONAL ORGANIZATIONS
