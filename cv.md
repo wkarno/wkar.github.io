@@ -5,21 +5,21 @@ permalink: /cv/
 layout: page
 ---
 
-#### Curriculum Vitae
+Curriculum Vitae
 =====================
 
-#### Will K. Arnold
+Will K. Arnold
 ---------------------
 
-##### Updated [October 16, 2017]
+Updated [October 16, 2017]
 ----------------------------
 
-#### PERSONAL DETAILS
+PERSONAL DETAILS
 --------------------
 
 Mailing Address: Medical Science Building MN469 800 Rose Street Lexington, KY 40536
 
-#### EDUCATION
+EDUCATION
 --------------
 
 **Degree, University and location, Month/Year**
@@ -29,7 +29,7 @@ B.S. Biology University of Kentucky	May 2011
 Ph.D. Microbiology, Immunology, and Molecular Genetics University of Kentucky Exp. 2017
 
 
-#### PROFESSIONAL EXPERIENCE
+PROFESSIONAL EXPERIENCE
 --------------------------
 
 **Year(s), Job title, Location**
@@ -43,7 +43,7 @@ Ph.D. Microbiology, Immunology, and Molecular Genetics University of Kentucky Ex
 2012-2018(exp)	Graduate Student	Department of Microbiology, Immunology, and Molecular Genetics  University of Kentucky
 
 
-#### PROFESSIONAL ORGANIZATIONS
+PROFESSIONAL ORGANIZATIONS
 ------------------------------
 
 **Name of organization, year(s)**
@@ -54,7 +54,7 @@ Biomedical Graduate Student Organization, 2015 - Present
   * Social Activity Chair, 2015
   * Director of IT, 2016 - 2017
 
-#### HONORS AND AWARDS
+HONORS AND AWARDS
 ---------------------
 
 **Name of award, year(s)**
@@ -69,7 +69,7 @@ Sponsored AAAS Membership, 2016 – Present
 
 Top Poster MIMG Departmental Retreat, 2017
 
-#### CIVIC AND COMMUNITY INVOLVEMENT
+CIVIC AND COMMUNITY INVOLVEMENT
 -----------------------------------
 
 **Function, name of association, year(s)**
@@ -78,7 +78,7 @@ Judge, Morton Middle school science fair 2015 - 2017
 
 Reviewer: PLoS One, FEMS Microbiology Letters
 
-#### PEER REVIEWED PUBLICATIONS
+PEER REVIEWED PUBLICATIONS
 ----------------
 
 Bobrov, A. G., et al. (2017). "Zinc transporters YbtX and ZnuABC are required for the virulence of Yersinia pestis in bubonic and pneumonic plague in mice." Metallomics 9(6): 757-772.
@@ -101,10 +101,10 @@ Woodman, M. E., Savage, C.R., Arnold, W.K., and Stevenson, B.  (2016). "Direct P
 
 2017, Data Intensive Biology Summer Institute, Davis CA
 
-#### Presentations  
+Presentations  
 -----------------
 
-##### ORAL
+ORAL
 ---------
 
 2014 Departmental Seminar
@@ -129,7 +129,7 @@ International Symposium on Tick Borne Diseases, 2017, Novel approaches shed ligh
 
 
 
-##### POSTER
+POSTER PRESENTATIONS
 ------------
 
 Gordon Research Seminar & Conference Biology of Spirochetes, 2014, Transcriptional Regulation of *bpuR*
